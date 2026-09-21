@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Shifana P. 👋
 
-<!--
-**shifanaaslam/shifanaaslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I’m a BSc Physics graduate currently pursuing Data Analytics training at Beat Education, Thrissur.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:** Excel • Power BI • SQL • Python • Pandas • Data Visualization
+
+I’m interested in transforming data into meaningful insights and building interactive dashboards to support data-driven decision-making.
+
+### 🛠️ Tools & Technologies
+
+* Microsoft Excel
+* Power BI
+* SQL
+* Python
+* Pandas & NumPy
+* Data Visualization
+* Jupyter Notebook
+
+### 📊 Featured Projects
+
+* Construction Sales & Project Performance Dashboard
+* HR Employee Analytics
+* Banking & Customer Analytics
+* Sales & Business Intelligence Dashboards
+
+### 📫 Connect with Me
+
+* LinkedIn: Add your LinkedIn profile URL here
+* GitHub: Add your GitHub profile URL here
+
